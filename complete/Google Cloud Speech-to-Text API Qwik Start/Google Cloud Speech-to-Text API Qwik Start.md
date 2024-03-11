@@ -1,8 +1,6 @@
-# Google Cloud Speech-to-Text API: Qwik Start || [GSP119](https://www.cloudskillsboost.google/focuses/588?parent=catalog) ||
+# Google Cloud Speech-to-Text API: Qwik Start[GSP119]
 
-## Solution [here](https://youtu.be/bx-D7ypXnWM)
-
-### Run the following Commands in CloudShell
+## Run the following Commands in CloudShell of SSH
 ```
 export API_KEY=
 ```
@@ -13,13 +11,3 @@ sudo chmod +x gsp119.sh
 
 ./gsp119.sh
 ```
-
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/QuickGcpLab) & [Discussion group](https://t.me/QuickGcpLabChats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
