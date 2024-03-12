@@ -1,7 +1,3 @@
-
-
-
-
 export PROJECT_ID=
 export CLUSTER_NAME=
 export ZONE=
@@ -97,16 +93,3 @@ git checkout master
 git add .
 git commit -m "Subscribe to quicklab" 
 git push -u origin master
-
-
-
-
-
-
-
-
-
-
-
-
-
